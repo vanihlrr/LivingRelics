@@ -1,0 +1,8 @@
+{
+    "include": [
+        "*.js",
+        "**/*.js",
+        "./@types/p5/global.d.ts",
+        "./@types/p5/lib/addons/p5.sound.d.ts"
+    ]
+}
